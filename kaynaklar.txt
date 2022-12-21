@@ -1,0 +1,14 @@
+js import-export
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+
+
+VSCODE React extension
+dsznajder.es7-react-js-snippets
+veya arama bölümüne react yazılanilir
+
+Html to JSX Tool
+https://transform.tools/html-to-jsx
+
+js arrow function
+https://www.w3schools.com/js/js_arrow_function.asp
+

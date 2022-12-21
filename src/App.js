@@ -1,8 +1,10 @@
-import ClickEvent from "./jsxSample/ClickEvent"
+import MapSample3 from "./jsxSample/MapSample3"
 
 function App() {
+
+  
   return <>
-    <ClickEvent/>
+  <MapSample3/>
   </>
 }
 

@@ -12,3 +12,8 @@ https://transform.tools/html-to-jsx
 js arrow function
 https://www.w3schools.com/js/js_arrow_function.asp
 
+JS Map
+https://www.w3schools.com/jsref/jsref_map.asp
+
+JSON VIEWER PRO extension
+https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc

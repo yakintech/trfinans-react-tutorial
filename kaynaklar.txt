@@ -17,3 +17,6 @@ https://www.w3schools.com/jsref/jsref_map.asp
 
 JSON VIEWER PRO extension
 https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+
+JS Spread Syntax
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax

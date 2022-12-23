@@ -1,5 +1,8 @@
-CHROME extension
+CHROME extension - react
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+CHROME extension - fake filler
+https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
 
 
 js import-export
@@ -24,3 +27,7 @@ https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkk
 
 JS Spread Syntax
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+
+React CSS
+https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/
